@@ -1,0 +1,28 @@
+{
+  "name": "mathematica-keygen",
+  "version": "12.0",
+  "description": "Wolfram Mathematica 12 keygen",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "repository": "git@github.com:metowolf/mathematica-keygen.git",
+  "author": {
+    "name": "metowolf",
+    "email": "i@i-meto.com",
+    "url": "i-meto.com"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "ava": "^2.1.0",
+    "xo": "^0.24.0"
+  },
+  "xo": {
+    "space": true,
+    "semicolon": false,
+    "padding-line-between-statements": false
+  }
+}
